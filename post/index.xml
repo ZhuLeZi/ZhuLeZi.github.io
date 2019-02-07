@@ -6,10 +6,19 @@
     <description>Recent content in Posts on ZhuLeZi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 06:45:03 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 07 Feb 2019 06:45:03 -0600</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>leplant植被生态学</title>
+      <link>/2019/02/07/leplant%E6%A4%8D%E8%A2%AB%E7%94%9F%E6%80%81%E5%AD%A6/</link>
+      <pubDate>Thu, 07 Feb 2019 06:45:03 -0600</pubDate>
+      
+      <guid>/2019/02/07/leplant%E6%A4%8D%E8%A2%AB%E7%94%9F%E6%80%81%E5%AD%A6/</guid>
+      <description>博客开通 lebook扩展包 植被生态学分析工具  安装  library(devtools) install_github(&amp;quot;ZhuLeZi/leplant&amp;quot;)   文档  lebook</description>
+    </item>
     
     <item>
       <title>博客开通啦</title>
